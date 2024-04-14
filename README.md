@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack & Frontend**
 
-- 💬 Ask me about **MERN STACK & JAVA**
+- 💬 Ask me about **MERN STACK & JAVA JAVASCRIPT**
 
 - 📫 How to reach me **shekharrs2002@gmail.com**
 
