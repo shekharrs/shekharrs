@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a speci
 
 ## 🌐 Portfolio
 
-Check out my portfolio to see more about my projects and skills: [https://shekhar-thakur.vercel.app/](https://shekhar-thakur.vercel.app/)
+Check out my portfolio to see more about my projects and skills: shekhar-thakur.vercel.app
 
 ## 🎯 Passion
 
