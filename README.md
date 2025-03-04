@@ -5,12 +5,6 @@
 
 ---
 
-## 🌐 Portfolio  
-
-📌 **[shekhar-thakur.vercel.app](https://shekhar-thakur.vercel.app/)** – Explore my work!  
-
----
-
 ## 📫 Let's Connect!  
 
 💼 [LinkedIn](https://www.linkedin.com/in/thakurshekhar/)  
