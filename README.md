@@ -1,16 +1,28 @@
-# Hi, I'm Shekhar Thakur! 👋  
+<p align="center">
+  # Hi, I'm Shekhar Thakur! 👋  
+</p>
 
-🚀 **Full Stack Developer** on a mission to craft **scalable, high-performance, and user-centric applications**. I thrive on blending **stunning frontend experiences** with **robust backend logic**, ensuring seamless functionality from pixel to database. With an eye for **clean code, intuitive design, and efficiency**, I transform ideas into reality—one line of code at a time.  
-    
-
----
-
-## 📫 Let's Connect!  
-
-💼 [LinkedIn](https://www.linkedin.com/in/thakurshekhar/)  
-📧 [Email](mailto:shekharrs2002@gmail.com)  
-🐦 [Twitter](https://x.com/Shekharrsthakur)  
+<p align="center">
+  🚀 <strong>Full Stack Developer</strong> on a mission to craft <strong>scalable, high-performance, and user-centric applications</strong>.  
+  I thrive on blending <strong>stunning frontend experiences</strong> with <strong>robust backend logic</strong>,  
+  ensuring seamless functionality from pixel to database. With an eye for <strong>clean code, intuitive design, and efficiency</strong>,  
+  I transform ideas into reality—one line of code at a time.  
+</p>
 
 ---
 
-💡 **Let’s collaborate and build something awesome together!** 🚀  
+<p align="center">
+  ## 📫 Let's Connect!  
+</p>
+
+<p align="center">
+  💼 <a href="https://www.linkedin.com/in/thakurshekhar/">LinkedIn</a>  
+  📧 <a href="mailto:shekharrs2002@gmail.com">Email</a>  
+  🐦 <a href="https://x.com/Shekharrsthakur">Twitter</a>  
+</p>
+
+---
+
+<p align="center">
+  💡 <strong>Let’s collaborate and build something awesome together! 🚀</strong>  
+</p>
