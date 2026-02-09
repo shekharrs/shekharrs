@@ -15,11 +15,11 @@
   ## 📫 Let's Connect!  
 </p>
 
-<p align="center">
+<!-- <p align="center">
   💼 <a href="https://www.linkedin.com/in/thakurshekhar/">LinkedIn</a>  
   📧 <a href="mailto:shekharrs2002@gmail.com">Email</a>  
   🐦 <a href="https://x.com/Shekharrsthakur">Twitter</a>  
-</p>
+</p> -->
 
 ---
 
