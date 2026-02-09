@@ -11,9 +11,9 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   ## 📫 Let's Connect!  
-</p>
+</p> -->
 
 <!-- <p align="center">
   💼 <a href="https://www.linkedin.com/in/thakurshekhar/">LinkedIn</a>  
