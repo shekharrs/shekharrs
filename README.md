@@ -9,7 +9,6 @@
   I transform ideas into reality—one line of code at a time.  
 </p>
 
----
 
 <!-- <p align="center">
   ## 📫 Let's Connect!  
@@ -21,7 +20,6 @@
   🐦 <a href="https://x.com/Shekharrsthakur">Twitter</a>  
 </p> -->
 
----
 
 <p align="center">
   💡 <strong>Let’s collaborate and build something awesome together! 🚀</strong>  
